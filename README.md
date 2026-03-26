@@ -9,11 +9,11 @@ I've worked with remote teams.
 - Agile/Scrum • Remote Collaboration • Cross-functional Teams • Client
 Communication
 
-### Public works, in progress
+### Test works, in progress
 [Gusla](https://github.com/kdomingo/Gusla) - Finding your cravings using Google Maps and Places SDK. written in Flutter.
 
 [Mappy](https://github.com/kdomingo/Mappy) - Search for places using Google Maps for Compose and Places SDK. written in Kotlin.
 
 
-### Public profile
+### Other profiles
 [Github](https://github.com/kdomingo) | [LinkedIn](linkedin.com/in/kyle-emmanuel-domingo-b8823a44) | [Stack Overflow](stackoverflow.com/users/1285027/kyle-emmanuel)
