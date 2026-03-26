@@ -14,4 +14,6 @@ Communication
 
 [Mappy](https://github.com/kdomingo/Mappy) - Search for places using Google Maps for Compose and Places SDK. written in Kotlin.
 
-[View my full profile](https://github.com/kdomingo)
+
+### Public profile
+[Github](https://github.com/kdomingo) | [LinkedIn](linkedin.com/in/kyle-emmanuel-domingo-b8823a44) | [Stack Overflow](stackoverflow.com/users/1285027/kyle-emmanuel)
