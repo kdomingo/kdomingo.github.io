@@ -13,3 +13,5 @@ Communication
 [Gusla](https://github.com/kdomingo/Gusla) - Finding your cravings using Google Maps and Places SDK. written in Flutter.
 
 [Mappy](https://github.com/kdomingo/Mappy) - Search for places using Google Maps for Compose and Places SDK. written in Kotlin.
+
+[View my full profile](https://github.com/kdomingo)
