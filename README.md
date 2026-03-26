@@ -1,6 +1,6 @@
 ### Mobile Engineer with 10+ years of experience building scalable Android, iOS, and cross-platform applications.
 
-I've worked with remote teams based in the US and India.
+I've worked with remote teams.
 
 ### Skills
 - Android (Kotlin, Java, Jetpack libraries, Compose, AndroidX)
