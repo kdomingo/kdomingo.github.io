@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - My Patient Diary</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f9f9fb;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #007aff;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 800;
+        }
+        h2 {
+            color: #1c1c1e;
+            font-size: 1.5rem;
+            margin-top: 30px;
+            border-bottom: 2px solid #f2f2f7;
+            padding-bottom: 8px;
+        }
+        p, li {
+            font-size: 1rem;
+            color: #48484a;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .last-updated {
+            font-size: 0.9rem;
+            color: #8e8e93;
+            margin-bottom: 30px;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #8e8e93;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="last-updated">Last Updated: July 16, 2026</p>
+        
+        <p>Your privacy is of critical importance to us. This Privacy Policy outlines how <strong>My Patient Diary</strong> handles data when you use the mobile application.</p>
+        
+        <h2>1. Local Storage Policy (Zero Server-Side Transmission)</h2>
+        <p><strong>My Patient Diary</strong> is designed to run entirely locally on your device using SwiftData local database encryption and storage layers. We do not operate databases, user accounts, or backends that store, sync, or transmit your patient logs, profiles, or health data.</p>
+        
+        <h2>2. Data Collected on Your Device</h2>
+        <p>All data entered into the application remains under your exclusive control and is stored directly on your iOS device's local memory. This includes:</p>
+        <ul>
+            <li>Patient Profiles (Names, age, conditions)</li>
+            <li>Care Logs (Feeding times, medications, poop/pee intervals, drainage volumes, doctor visits)</li>
+            <li>Scheduled Activity Reminders</li>
+        </ul>
+        
+        <h2>3. Third-Party Integrations</h2>
+        <p>To maximize security, we have removed all Firebase integrations, tracking cookies, analytics SDKs, and telemetry packages. The application does not track your coordinates, behavior, or usage history.</p>
+        
+        <h2>4. Share & Export Actions</h2>
+        <p>When you use the Email Export or Share features, the app packages your selected caregiver logs into a plain-text format and opens the native iOS Mail compose sheet (or share sheet). This transmission is handled securely by iOS, and the target address is selected solely by you.</p>
+        
+        <h2>5. Complete Data Erasure (Cascade Delete)</h2>
+        <p>You can delete patient profiles and logs at any time. Selecting "Delete" immediately deletes the patient profile and triggers a cascade deletion of all historical log entries from your local device's database context, leaving no residual records.</p>
+        
+        <h2>6. Changes to This Privacy Policy</h2>
+        <p>We may update our Privacy Policy from time to time. We will notify you of any changes by updating this page online.</p>
+        
+        <footer>
+            <p>Copyright &copy; 2026 Kyle Emmanuel Domingo. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
