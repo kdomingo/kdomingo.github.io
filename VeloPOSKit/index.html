@@ -118,37 +118,37 @@ eventBus.observe(<span class="type">PaymentCompletedEvent</span>::<span class="k
                 <div class="feature-card" id="feature-clean-arch">
                     <div class="feature-icon">🏛️</div>
                     <h3>Strict Clean Architecture</h3>
-                    <p>Domain, Data, and SDK layers separated with strict inward dependencies. Zero third-party framework leakage into business interactors.</p>
+                    <p>Decoupled domain, data, and core layers with strict inward dependency rules for maximum stability and enterprise maintainability.</p>
                 </div>
 
                 <div class="feature-card" id="feature-thermal-printer">
                     <div class="feature-icon">🖨️</div>
                     <h3>ESC/POS Thermal Printing</h3>
-                    <p>Built-in ESC/POS command builder for Bluetooth, USB, and LAN receipt printers. Customizable formatting, logo rasterization, and paper cut.</p>
+                    <p>Hardware-agnostic thermal printer command generation for wireless, USB, and network hardware with customizable receipt layouts.</p>
                 </div>
 
                 <div class="feature-card" id="feature-payment">
                     <div class="feature-icon">💳</div>
                     <h3>Payment Gateway Abstraction</h3>
-                    <p>Process Credit Cards, Contactless NFC (Apple Pay / Google Pay), Cash, and QR Payments with full tokenization and refund handling.</p>
+                    <p>Unified payment interface supporting contactless NFC, card tokenization, digital wallets, cash, and full transaction lifecycles.</p>
                 </div>
 
                 <div class="feature-card" id="feature-discounts">
                     <div class="feature-icon">🎟️</div>
                     <h3>Discount & Rules Engine</h3>
-                    <p>Dynamic promotion evaluation: Percentage, Fixed Amount, Promo Codes (`WELCOME10`), minimum subtotal caps, and coupon stacking rules.</p>
+                    <p>Configurable promotion engine handling percentage reductions, fixed amounts, promotional code validation, and basket qualification rules.</p>
                 </div>
 
                 <div class="feature-card" id="feature-currency">
                     <div class="feature-icon">💱</div>
                     <h3>Global Multi-Currency</h3>
-                    <p>Dynamic currency selection (`PHP ₱`, `USD $`, `EUR €`, `GBP £`, `JPY ¥`) configurable globally or per-transaction.</p>
+                    <p>Comprehensive multi-currency support with dynamic symbol formatting, precision rounding, and configurable global or transaction-level overrides.</p>
                 </div>
 
                 <div class="feature-card" id="feature-licensing">
                     <div class="feature-icon">🔑</div>
                     <h3>Commercial Licensing</h3>
-                    <p>Embedded `LicenseManager` validation with cryptographic token verification, tier enforcement, and royalty-free distribution.</p>
+                    <p>Embedded commercial entitlement verification with cryptographic key validation, tier enforcement, and royalty-free distribution rights.</p>
                 </div>
             </div>
         </div>
@@ -230,7 +230,7 @@ eventBus.observe(<span class="type">PaymentCompletedEvent</span>::<span class="k
                         <li>✔️ <strong>ESC/POS Thermal Hardware Drivers</strong> (Bluetooth, USB, Ethernet/LAN)</li>
                         <li>✔️ <strong>EMV & NFC Payment Tokenization Drivers</strong></li>
                         <li>✔️ <strong>Multi-Currency Engine</strong> (`PHP ₱`, `USD $`, `EUR €`, `JPY ¥`, Custom)</li>
-                        <li>✔️ <strong>Cryptographic License Key Activation</strong> via `LicenseManager`</li>
+                        <li>✔️ <strong>Cryptographic License Key Activation & Entitlement Manager</strong></li>
                         <li>✔️ <strong>12 Months Dedicated Engineering Support</strong> & Minor Updates</li>
                         <li>✔️ <strong>100% Royalty-Free Commercial Sublicensing Rights</strong></li>
                     </ul>
