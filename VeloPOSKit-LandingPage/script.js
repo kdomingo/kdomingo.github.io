@@ -34,5 +34,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    console.log("⚡ VeloPOSKit Landing Page Initialized — Commercial License ₱130,000 PHP");
+    console.log("⚡ VeloPOSKit Landing Page Initialized — Commercial License");
 });

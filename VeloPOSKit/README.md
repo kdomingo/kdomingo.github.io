@@ -8,7 +8,7 @@ Official landing page repository for **VeloPOSKit** — the high-performance, mo
 
 - **Modern Glassmorphism Aesthetic**: Dark mode theme with cyan & emerald neon accents, interactive module selectors, and responsive CSS Grid/Flexbox layouts.
 - **SDK Capability Spotlights**: Clean Architecture breakdown (`:core`, `:products`, `:payment`, `:printing`, `:discounts`).
-- **Commercial Pricing Section**: Highlights the Commercial Enterprise License tier at **₱130,000 PHP**.
+- **Commercial Pricing Section**: Highlights the Commercial Enterprise License tier.
 - **Interactive Code Terminal**: Embedded Kotlin code snippets demonstrating `LicenseManager`, `KitConfig.setCurrency(CurrencyType.PHP)`, `ProcessPaymentUseCase`, and `PrintReceiptUseCase`.
 
 ---
